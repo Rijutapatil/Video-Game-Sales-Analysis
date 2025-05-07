@@ -1,6 +1,5 @@
 # Run this script using Streamlit
 # pip install -r requirements.txt
-# pip install -r /Users/rijpat/Downloads/requirements.txt 
 # streamlit run app.py
 
 import streamlit as st
